@@ -30,7 +30,7 @@ export default function HeroTypewriter() {
       </h2>
       <div className="flex gap-4">
         <a
-          href="/Sarabpreet Singh Rekhi resume.pdf"
+          href="/Sarabpreet_Singh_Rekhi_Resume.pdf"
           download
           className="inline-block bg-pink-600 hover:bg-pink-700 text-white px-6 py-2 rounded-md text-sm font-semibold transition-colors duration-200"
         >
