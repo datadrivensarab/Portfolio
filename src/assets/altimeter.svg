@@ -1,0 +1,12 @@
+<!-- src/assets/altimeter.svg -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="45" stroke="#4B5563" stroke-width="4" fill="none"></circle>
+  <!-- Tick marks -->
+  <g stroke="#4B5563" stroke-width="2">
+    <line x1="50" y1="5" x2="50" y2="12"></line>
+    <line x1="50" y1="95" x2="50" y2="88"></line>
+    <line x1="5" y1="50" x2="12" y2="50"></line>
+    <line x1="95" y1="50" x2="88" y2="50"></line>
+    <!-- add more ticks around the circle as desired -->
+  </g>
+</svg>
