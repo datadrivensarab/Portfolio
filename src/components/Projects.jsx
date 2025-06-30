@@ -3,7 +3,7 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 const projects = [
   {
-    title: 'Predicting Toronto Crime Trends',
+    title: 'Toronto Crime Trends Analysis & Prediction',
     description:
       'A machine learning project that predicts crime types and visualizes crime trends in Toronto through an interactive Streamlit dashboard.',
     tech: ['Python', 'Pandas', 'Scikit-learn', 'NumPy', 'Matplotlib', 'Streamlit', 'Jupyter Notebook'],

@@ -35,7 +35,7 @@ export default function About() {
             predict. They clarify, guide, and create change.
           </p>
           <p className="font-semibold text-pink-500 mb-4">
-            Data should feel like altitude — the higher you go, the clearer things become.
+            Data should feel like altitude: the higher you go, the clearer things become.
           </p>
 
           <div className="flex flex-wrap gap-2 mt-4">
